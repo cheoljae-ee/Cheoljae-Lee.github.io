@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>나의 홈페이지</title>
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm Cheoljae Lee!</h1>
+        <p>I am a M.S/Ph.D integrated student at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by Ju-Hyuck Lee. I am interested in energy harvesting, piezoelectric, and triboelectric nanogenerator.</p>
+    </header>
+    <section>
+        <h2>News</h2>
+        <p>(2024-02-26) I comeback ECME lab from korea army!</p>
+    </section>
+    <section>
+        <h2>Publications</h2>
+        <p>[12] Interfacial Triboelectricity Lights Up Phosphor-Polymer Elastic Composites: Unraveling the Mechanism of Mechanoluminescence in Zinc Sulfide Microparticle-Embedded Polydimethylsiloxane Films
+Gyudong Lee, Seongkyu Song, Woo Hyeon Jeong, Cheoljae Lee, June-Seo Kim, Ju-Hyuck Lee, Jongmin Choi,  Hyosung Choi, Younghoon Kim, Sung Jun Lim, Soon Moon Jeong
+Small, 2307089 (2024)
+
+[11] Self-powered electrodynamic dust removal for sustainable solar panels using triboelectric nanogenerators
+Minsu Heo, Junyeong Yang, Bosung Kim, Cheoljae Lee, Hyosik Park, Soo-Kwan Kim, Jongsung Lee,  Seongho Son,  Jeongnam Cheon, Jongmin Choi, Wanchul Seung*, Sang-Woo Kim*, Ju-Hyuck Lee*
+Nano Energy, 121, 109257 (2024)
+
+[10] Plasticizer structural effect for sustainable and high-performance PVC gel-based triboelectric nanogenerators
+Hyosik Park, Seung-Ju Oh, Mingyu Kim, Cheoljae Lee, Hyeonseo Joo, Jin Woo Bae*, Ju-Hyuck Lee*
+Nano Energy, 114, 108615 (2023)
+
+[9] Functionalized thermoplastic polyurethane with tunable tribopolarity and biodegradability for high performance and biodegradable triboelectric nanogenerator
+Hyeonseo Joo, Sujeong Gwak, Mun Hwan Lee, Hyosik Park, Cheoljae Lee, Ju Hun Lee, Sang A Han*, Ju-Hyuck Lee*
+Sustainable Materials and Technologies, 36, e00638 (2023)
+
+[8] High Performance and Direct Current Piezoelectric Nanogenerators Using Lithium-doped Zinc Oxide Nanosheets
+Jeongeun Kim†, Yuseok Kim†, Yerin Kim, Cheoljae Lee, Ju-Hyuck Lee*
+Energy Technology, 2201453 (2023) 
+
+[7] Self-assembly of unidirectionally polarized piezoelectric peptide nanotubes using environmentally friendly solvents
+Hyojin Park†, Yuseok Kim†, Yerin Kim, Cheoljae Lee, Hyosik Park, Hyeonseo Joo, Ju Hun Lee*, Ju-Hyuck Lee*
+Applied Surface Science, 618, 156588 (2023)
+
+[6] Electrostatic discharge prevention system via body potential control based on a triboelectric nanogenerator
+Cheoljae Lee, Minsu Heo, Hyosik Park, Hyeonseo Joo, Wanchul Seung*, Ju-Hyuck Lee*
+Nano Energy, 103, 107834 (2022)
+
+[5] Control of the Biodegradability of Piezoelectric Peptide Nanotubes Integrated with Hydrophobic Porphyrin
+Yerin Kim, Hyojin Park, Yuseok Kim, Cheoljae Lee, Hyosik Park, Ju-Hyuck Lee*
+ACS Applied Materials & Interfaces, 14, 38778-38785 (2022)
+
+[4] Toxic micro/nano particles removal in water via triboelectric nanogenerator
+Byung-Geon Park†, Cheoljae Lee†, Young-Jun Kim, Jinhyoung Park, Hyeok Kim, Young Jung, Jong Soo Ko, Sang-Woo Kim*, Ju-Hyuck Lee*, Hanchul Cho*
+Nano Energy, 100, 107433 (2022) †Equal contribution
+
+[3] Plasticized PVC-Gel Single Layer-Based Stretchable Triboelectric Nanogenerator for Harvesting Mechanical Energy and Tactile Sensing
+Hyosik Park†, Seung-Ju Oh†, Daeyeong Kim, Mingyu Kim, Cheoljae Lee, Hyeonseo Joo, Insun Woo, Jin Woo Bae, Ju-Hyuck Lee*
+Advanced Science, 9, 2201070 (2022)
+
+[2] Recent Structure Development of Poly(vinylidene fluoride)-Based Piezoelectric Nanogenerator for Self-Powered Sensor
+Cheoljae Lee†, Hyosik Park†, Ju-Hyuck Lee*
+Actuators. 9, 57 (2020) (Invited review) †Equal contribution
+
+[1] Direct-current flexible piezoelectric nanogenerators based on two-dimensional ZnO nanosheet
+Yoonjung Lee†, Sohee Kim†, Daeyeong Kim, Cheoljae Lee, Hyojin Park, Ju-Hyuck Lee*           
+Applied Surface Science, 509, 145328 (2020)
+</p>
+    </section>
+    <section>
+        <h2>교육</h2>
+        <p>[교육 이력]</p>
+    </section>
+    <footer>
+        <p>연락처: [kum3223@dgist.ac.kr]</p>
+    </footer>
+</body>
+</html>
